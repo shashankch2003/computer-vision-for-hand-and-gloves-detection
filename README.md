@@ -20,3 +20,5 @@ This project detects **gloved vs bare hands** for safety compliance in industria
 ### How to Run
 ```bash
 python3 detection_script.py
+
+
