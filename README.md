@@ -1,4 +1,4 @@
-computer-vision-for-hand-and-gloves-detection
+before you use this repo star ot i would really appreciate it computer-vision-for-hand-and-gloves-detection
 
 
 # Part 1: Glove Detection
