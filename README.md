@@ -1,4 +1,5 @@
-before you use this repo star it. i would really appreciate it🤝
+before you use this repo star it🌟. 
+i would really appreciate it🤝 & helps a lot 
 
 computer-vision-for-hand-and-gloves-detection
 
