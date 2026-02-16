@@ -1,4 +1,5 @@
 before you use this repo star it🌟. 
+
 i would really appreciate it🤝 & helps a lot 
 
 computer-vision-for-hand-and-gloves-detection
@@ -24,5 +25,6 @@ This project detects **gloved vs bare hands** for safety compliance in industria
 ### How to Run
 ```bash
 python3 detection_script.py
+
 
 
