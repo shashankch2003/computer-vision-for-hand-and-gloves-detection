@@ -20,9 +20,11 @@ This project detects **gloved vs bare hands** for safety compliance in industria
 - **Model**: YOLOv8n
 - **Framework**: PyTorch (Ultralytics)
 - **Training**: Fine-tuned for 50 epochs on custom dataset.
+- for better accuracy and use case and edge specific you could train it on more epochs
 
 
 ### How to Run
+commands:
 ```bash
 python3 detection_script.py
 
