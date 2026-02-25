@@ -28,7 +28,7 @@ and choose the best epochs that gibes best.pt
 
 
 ### How to Run
-commands:```bash python3 detection_script.py
+commands:bash python3 detection_script.py
 
 
 
