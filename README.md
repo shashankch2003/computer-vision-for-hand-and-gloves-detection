@@ -1,8 +1,10 @@
 Before You use this repo Star it🌟.
 
-I Would really appreciate it🤝 & helps a lot
+I Would really appreciate it🤝 
+& helps a lot
 
-Computer-vision-for-hand-and-gloves-detection
+Computer vision based hand&gloves
+detection
 
 The entire project is divided into two parts
 
