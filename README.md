@@ -31,7 +31,6 @@ This project detects **gloved vs bare hands** for safety compliance in industria
 - for better accuracy and use case and edge specific you could train it on more epochs
 and choose the best epochs that gibes best.pt
 
-
 ### How to Run
 commands:bash python3 detection_script.py
 
