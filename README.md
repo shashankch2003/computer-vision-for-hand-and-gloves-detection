@@ -8,7 +8,6 @@ Computer vision based hand & gloves
 detection
 
 
-
 The entire project is divided into 2 parts
 
 # Part 1: Glove Detection
