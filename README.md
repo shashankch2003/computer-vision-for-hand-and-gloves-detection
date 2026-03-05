@@ -16,6 +16,7 @@ The entire project is divided into 2 parts
 ## Overview
 This project detects **gloved vs bare hands** for safety compliance in industrial settings.
 
+
 ### Dataset
 - **Source**: Roboflow Universe ("Hand Glove Detection Dataset")
 - **Classes**: `gloved_hand`, `bare_hand`
