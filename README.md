@@ -2,7 +2,7 @@ Before You use this repo Star it🌟.
 
 I Would really appreciate it🤝 
 
-& that helps a lot 
+& that helps a lot for me to share useful projects
 
 Computer vision based hand & gloves
 detection
